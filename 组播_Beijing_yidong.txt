@@ -1,61 +1,25 @@
-Guang_dian-组播,#genre#
-#EXTINF:-1 tvg-id="1" tvg-name="翡翠台" tvg-logo="https://www.yangfeiyue.cn/tv/翡翠台.png" group-title="卫视高清",翡翠台
-http://119.32.12.12:2901/udp/224.1.100.121:11111
-#EXTINF:-1 tvg-id="1" tvg-name="明珠台" tvg-logo="https://www.yangfeiyue.cn/tv/明珠台.png" group-title="卫视高清",明珠台
-http://119.32.12.12:2901/udp/224.1.100.123:11111
-#EXTINF:-1 tvg-id="1" tvg-name="重温经典" tvg-logo="https://www.yangfeiyue.cn/tv/重温经典.png" group-title="卫视高清",重温经典
-http://119.32.12.12:2901/udp/224.1.100.126:11111
-#EXTINF:-1 tvg-id="1" tvg-name="劲爆体育" tvg-logo="https://www.yangfeiyue.cn/tv/劲爆体育.png" group-title="卫视高清",劲爆体育
-http://119.32.12.12:2901/udp/224.1.100.129:11111
-#EXTINF:-1 tvg-id="1" tvg-name="新视觉" tvg-logo="https://www.yangfeiyue.cn/tv/新视觉.png" group-title="卫视高清",新视觉
-http://119.32.12.12:2901/udp/224.1.100.136:11111
-#EXTINF:-1 tvg-id="1" tvg-name="翡翠台" tvg-logo="https://www.yangfeiyue.cn/tv/翡翠台.png" group-title="卫视高清",翡翠台
-http://119.32.12.21:2901/udp/224.1.100.121:11111
-#EXTINF:-1 tvg-id="1" tvg-name="明珠台" tvg-logo="https://www.yangfeiyue.cn/tv/明珠台.png" group-title="卫视高清",明珠台
-http://119.32.12.21:2901/udp/224.1.100.123:11111
-#EXTINF:-1 tvg-id="1" tvg-name="重温经典" tvg-logo="https://www.yangfeiyue.cn/tv/重温经典.png" group-title="卫视高清",重温经典
-http://119.32.12.21:2901/udp/224.1.100.126:11111
-#EXTINF:-1 tvg-id="1" tvg-name="劲爆体育" tvg-logo="https://www.yangfeiyue.cn/tv/劲爆体育.png" group-title="卫视高清",劲爆体育
-http://119.32.12.21:2901/udp/224.1.100.129:11111
-#EXTINF:-1 tvg-id="1" tvg-name="新视觉" tvg-logo="https://www.yangfeiyue.cn/tv/新视觉.png" group-title="卫视高清",新视觉
-http://119.32.12.21:2901/udp/224.1.100.136:11111
-#EXTINF:-1 tvg-id="1" tvg-name="翡翠台" tvg-logo="https://www.yangfeiyue.cn/tv/翡翠台.png" group-title="卫视高清",翡翠台
-http://119.32.12.36:2901/udp/224.1.100.121:11111
-#EXTINF:-1 tvg-id="1" tvg-name="明珠台" tvg-logo="https://www.yangfeiyue.cn/tv/明珠台.png" group-title="卫视高清",明珠台
-http://119.32.12.36:2901/udp/224.1.100.123:11111
-#EXTINF:-1 tvg-id="1" tvg-name="重温经典" tvg-logo="https://www.yangfeiyue.cn/tv/重温经典.png" group-title="卫视高清",重温经典
-http://119.32.12.36:2901/udp/224.1.100.126:11111
-#EXTINF:-1 tvg-id="1" tvg-name="劲爆体育" tvg-logo="https://www.yangfeiyue.cn/tv/劲爆体育.png" group-title="卫视高清",劲爆体育
-http://119.32.12.36:2901/udp/224.1.100.129:11111
-#EXTINF:-1 tvg-id="1" tvg-name="新视觉" tvg-logo="https://www.yangfeiyue.cn/tv/新视觉.png" group-title="卫视高清",新视觉
-http://119.32.12.36:2901/udp/224.1.100.136:11111
-#EXTINF:-1 tvg-id="1" tvg-name="翡翠台" tvg-logo="https://www.yangfeiyue.cn/tv/翡翠台.png" group-title="卫视高清",翡翠台
-http://14.149.140.157:16888/udp/224.1.100.121:11111
-#EXTINF:-1 tvg-id="1" tvg-name="明珠台" tvg-logo="https://www.yangfeiyue.cn/tv/明珠台.png" group-title="卫视高清",明珠台
-http://14.149.140.157:16888/udp/224.1.100.123:11111
-#EXTINF:-1 tvg-id="1" tvg-name="重温经典" tvg-logo="https://www.yangfeiyue.cn/tv/重温经典.png" group-title="卫视高清",重温经典
-http://14.149.140.157:16888/udp/224.1.100.126:11111
-#EXTINF:-1 tvg-id="1" tvg-name="劲爆体育" tvg-logo="https://www.yangfeiyue.cn/tv/劲爆体育.png" group-title="卫视高清",劲爆体育
-http://14.149.140.157:16888/udp/224.1.100.129:11111
-#EXTINF:-1 tvg-id="1" tvg-name="新视觉" tvg-logo="https://www.yangfeiyue.cn/tv/新视觉.png" group-title="卫视高清",新视觉
-http://14.149.140.157:16888/udp/224.1.100.136:11111
-#EXTINF:-1 tvg-id="1" tvg-name="翡翠台" tvg-logo="https://www.yangfeiyue.cn/tv/翡翠台.png" group-title="卫视高清",翡翠台
-http://14.149.140.210:16888/udp/224.1.100.121:11111
-#EXTINF:-1 tvg-id="1" tvg-name="明珠台" tvg-logo="https://www.yangfeiyue.cn/tv/明珠台.png" group-title="卫视高清",明珠台
-http://14.149.140.210:16888/udp/224.1.100.123:11111
-#EXTINF:-1 tvg-id="1" tvg-name="重温经典" tvg-logo="https://www.yangfeiyue.cn/tv/重温经典.png" group-title="卫视高清",重温经典
-http://14.149.140.210:16888/udp/224.1.100.126:11111
-#EXTINF:-1 tvg-id="1" tvg-name="劲爆体育" tvg-logo="https://www.yangfeiyue.cn/tv/劲爆体育.png" group-title="卫视高清",劲爆体育
-http://14.149.140.210:16888/udp/224.1.100.129:11111
-#EXTINF:-1 tvg-id="1" tvg-name="新视觉" tvg-logo="https://www.yangfeiyue.cn/tv/新视觉.png" group-title="卫视高清",新视觉
-http://14.149.140.210:16888/udp/224.1.100.136:11111
-#EXTINF:-1 tvg-id="1" tvg-name="翡翠台" tvg-logo="https://www.yangfeiyue.cn/tv/翡翠台.png" group-title="卫视高清",翡翠台
-http://27.42.214.129:2222/udp/224.1.100.121:11111
-#EXTINF:-1 tvg-id="1" tvg-name="明珠台" tvg-logo="https://www.yangfeiyue.cn/tv/明珠台.png" group-title="卫视高清",明珠台
-http://27.42.214.129:2222/udp/224.1.100.123:11111
-#EXTINF:-1 tvg-id="1" tvg-name="重温经典" tvg-logo="https://www.yangfeiyue.cn/tv/重温经典.png" group-title="卫视高清",重温经典
-http://27.42.214.129:2222/udp/224.1.100.126:11111
-#EXTINF:-1 tvg-id="1" tvg-name="劲爆体育" tvg-logo="https://www.yangfeiyue.cn/tv/劲爆体育.png" group-title="卫视高清",劲爆体育
-http://27.42.214.129:2222/udp/224.1.100.129:11111
-#EXTINF:-1 tvg-id="1" tvg-name="新视觉" tvg-logo="https://www.yangfeiyue.cn/tv/新视觉.png" group-title="卫视高清",新视觉
-http://27.42.214.129:2222/udp/224.1.100.136:11111
+Beijing_yidong-组播,#genre#
+#EXTINF:-1 tvg-id="北京IPTV4K超清" tvg-name="北京IPTV4K超清" tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K超清.png" group-title="本地高清",北京IPTV4K超清
+http://120.245.137.136:20146/rtp/228.1.1.123:8001
+#EXTINF:-1 tvg-id="重温经典电影" tvg-name="重温经典电影" tvg-logo="https://live.fanmingming.com/tv/重温经典电影.png" " group-title="本地高清",重温经典电影
+http://120.245.137.136:20146/rtp/228.1.1.237:8002
+#EXTINF:-1 tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://live.fanmingming.com/tv/北京淘电影.png" " group-title="本地高清",北京淘电影
+http://120.245.137.136:20146/rtp/228.1.1.124:8001
+#EXTINF:-1 tvg-id="北京淘剧场" tvg-name="北京淘剧场" tvg-logo="https://live.fanmingming.com/tv/北京淘剧场.png" group-title="本地高清",北京淘剧场
+http://120.245.137.136:20146/rtp/228.1.1.126:8001
+#EXTINF:-1 tvg-id="北京淘娱乐" tvg-name="北京淘娱乐" tvg-logo="https://live.fanmingming.com/tv/北京淘娱乐.png" group-title="本地高清",北京淘娱乐
+http://120.245.137.136:20146/rtp/228.1.1.133:8001
+#EXTINF:-1 tvg-id="北京淘Baby" tvg-name="北京淘Baby" tvg-logo="https://live.fanmingming.com/tv/北京淘Baby.png" group-title="本地高清",北京淘Baby
+http://120.245.137.136:20146/rtp/228.1.1.128:8001
+#EXTINF:-1 tvg-id="北京IPTV4K超清" tvg-name="北京IPTV4K超清" tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K超清.png" group-title="本地高清",北京IPTV4K超清
+http://223.72.11.53:8022/rtp/228.1.1.123:8001
+#EXTINF:-1 tvg-id="重温经典电影" tvg-name="重温经典电影" tvg-logo="https://live.fanmingming.com/tv/重温经典电影.png" " group-title="本地高清",重温经典电影
+http://223.72.11.53:8022/rtp/228.1.1.237:8002
+#EXTINF:-1 tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://live.fanmingming.com/tv/北京淘电影.png" " group-title="本地高清",北京淘电影
+http://223.72.11.53:8022/rtp/228.1.1.124:8001
+#EXTINF:-1 tvg-id="北京淘剧场" tvg-name="北京淘剧场" tvg-logo="https://live.fanmingming.com/tv/北京淘剧场.png" group-title="本地高清",北京淘剧场
+http://223.72.11.53:8022/rtp/228.1.1.126:8001
+#EXTINF:-1 tvg-id="北京淘娱乐" tvg-name="北京淘娱乐" tvg-logo="https://live.fanmingming.com/tv/北京淘娱乐.png" group-title="本地高清",北京淘娱乐
+http://223.72.11.53:8022/rtp/228.1.1.133:8001
+#EXTINF:-1 tvg-id="北京淘Baby" tvg-name="北京淘Baby" tvg-logo="https://live.fanmingming.com/tv/北京淘Baby.png" group-title="本地高清",北京淘Baby
+http://223.72.11.53:8022/rtp/228.1.1.128:8001
