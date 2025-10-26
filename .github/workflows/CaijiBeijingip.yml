@@ -1,4 +1,4 @@
-name: CaijiBeijingydip
+name: CaijiBeijingip
 
 on:
   #schedule:
@@ -27,7 +27,7 @@ jobs:
       - name: 获取源
         run: |
           cd $GITHUB_WORKSPACE
-          python ./CaijiBeijingydip.py
+          python ./CaijiBeijingip.py
           
       - name: Install Dependencies
         run: |
@@ -38,7 +38,7 @@ jobs:
         run: |
           cd $GITHUB_WORKSPACE
           cat zubo.txt > zubo_bf.txt
-          bash ./CaijiBeijingydip.sh
+          bash ./CaijiBeijingip.sh
           cat txt/Beijing_yidong.txt > zubo.txt
           
       - name: 更新源
