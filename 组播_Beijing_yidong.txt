@@ -1,25 +1,25 @@
 Beijing_yidong-组播,#genre#
 #EXTINF:-1 tvg-id="北京IPTV4K超清" tvg-name="北京IPTV4K超清" tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K超清.png" group-title="本地高清",北京IPTV4K超清
-http://223.72.11.92:8022/rtp/228.1.1.123:8001
+http://223.72.11.60:8022/rtp/228.1.1.123:8001
 #EXTINF:-1 tvg-id="重温经典电影" tvg-name="重温经典电影" tvg-logo="https://live.fanmingming.com/tv/重温经典电影.png" " group-title="本地高清",重温经典电影
-http://223.72.11.92:8022/rtp/228.1.1.237:8002
+http://223.72.11.60:8022/rtp/228.1.1.237:8002
 #EXTINF:-1 tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://live.fanmingming.com/tv/北京淘电影.png" " group-title="本地高清",北京淘电影
-http://223.72.11.92:8022/rtp/228.1.1.124:8001
+http://223.72.11.60:8022/rtp/228.1.1.124:8001
 #EXTINF:-1 tvg-id="北京淘剧场" tvg-name="北京淘剧场" tvg-logo="https://live.fanmingming.com/tv/北京淘剧场.png" group-title="本地高清",北京淘剧场
-http://223.72.11.92:8022/rtp/228.1.1.126:8001
+http://223.72.11.60:8022/rtp/228.1.1.126:8001
 #EXTINF:-1 tvg-id="北京淘娱乐" tvg-name="北京淘娱乐" tvg-logo="https://live.fanmingming.com/tv/北京淘娱乐.png" group-title="本地高清",北京淘娱乐
-http://223.72.11.92:8022/rtp/228.1.1.133:8001
+http://223.72.11.60:8022/rtp/228.1.1.133:8001
 #EXTINF:-1 tvg-id="北京淘Baby" tvg-name="北京淘Baby" tvg-logo="https://live.fanmingming.com/tv/北京淘Baby.png" group-title="本地高清",北京淘Baby
-http://223.72.11.92:8022/rtp/228.1.1.128:8001
+http://223.72.11.60:8022/rtp/228.1.1.128:8001
 #EXTINF:-1 tvg-id="北京IPTV4K超清" tvg-name="北京IPTV4K超清" tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K超清.png" group-title="本地高清",北京IPTV4K超清
-http://223.72.47.167:4022/rtp/228.1.1.123:8001
+http://223.72.47.159:4022/rtp/228.1.1.123:8001
 #EXTINF:-1 tvg-id="重温经典电影" tvg-name="重温经典电影" tvg-logo="https://live.fanmingming.com/tv/重温经典电影.png" " group-title="本地高清",重温经典电影
-http://223.72.47.167:4022/rtp/228.1.1.237:8002
+http://223.72.47.159:4022/rtp/228.1.1.237:8002
 #EXTINF:-1 tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://live.fanmingming.com/tv/北京淘电影.png" " group-title="本地高清",北京淘电影
-http://223.72.47.167:4022/rtp/228.1.1.124:8001
+http://223.72.47.159:4022/rtp/228.1.1.124:8001
 #EXTINF:-1 tvg-id="北京淘剧场" tvg-name="北京淘剧场" tvg-logo="https://live.fanmingming.com/tv/北京淘剧场.png" group-title="本地高清",北京淘剧场
-http://223.72.47.167:4022/rtp/228.1.1.126:8001
+http://223.72.47.159:4022/rtp/228.1.1.126:8001
 #EXTINF:-1 tvg-id="北京淘娱乐" tvg-name="北京淘娱乐" tvg-logo="https://live.fanmingming.com/tv/北京淘娱乐.png" group-title="本地高清",北京淘娱乐
-http://223.72.47.167:4022/rtp/228.1.1.133:8001
+http://223.72.47.159:4022/rtp/228.1.1.133:8001
 #EXTINF:-1 tvg-id="北京淘Baby" tvg-name="北京淘Baby" tvg-logo="https://live.fanmingming.com/tv/北京淘Baby.png" group-title="本地高清",北京淘Baby
-http://223.72.47.167:4022/rtp/228.1.1.128:8001
+http://223.72.47.159:4022/rtp/228.1.1.128:8001
